@@ -1,0 +1,3 @@
+C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Source\GameJamUntitled\GameJamUntitled.Build.cs
+C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Source\GameJamUntitled.Target.cs
+C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Source\GameJamUntitledEditor.Target.cs

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameJamUntitled.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\GameJamUntitledEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\GameJamUntitled.cpp.obj"
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\GameJamUntitledGameModeBase.cpp.obj"
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\GameJamUntitled.init.gen.cpp.obj"
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\GameJamUntitledGameModeBase.gen.cpp.obj"
+"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\PCLaunch.rc.res"
+/OUT:"C:\Users\doguk\Desktop\Cekirdek_Jam_2-master\Cekirdek_Jam_2-master\Intermediate\Build\Win64\UE4Editor\Development\GameJamUntitled\UE4Editor-GameJamUntitled.lib"

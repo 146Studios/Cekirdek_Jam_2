@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameJamUntitled.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9096B342-661F-419F-8618-C6F395B957BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameJamUntitled.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameJamUntitledEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{47A97EE2-2DB5-444E-97FF-DCDE8F60CB5C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameJamUntitled">
+      <UniqueIdentifier>{49ED818A-0C4F-46C6-BEE3-C93A72A07543}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameJamUntitled\GameJamUntitled.Build.cs">
+      <Filter>Source\GameJamUntitled</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameJamUntitled\GameJamUntitled.cpp">
+      <Filter>Source\GameJamUntitled</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamUntitled\GameJamUntitled.h">
+      <Filter>Source\GameJamUntitled</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameJamUntitled\GameJamUntitledGameModeBase.cpp">
+      <Filter>Source\GameJamUntitled</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameJamUntitled\GameJamUntitledGameModeBase.h">
+      <Filter>Source\GameJamUntitled</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
